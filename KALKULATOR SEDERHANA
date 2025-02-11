@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Muhamad Ridho Fadilah</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+    <header class="bg-blue-600 text-white p-6 text-center text-2xl font-bold">
+        Portofolio Muhamad Ridho Fadilah
+    </header>
+
+    <section class="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-6">
+        <h2 class="text-xl font-semibold">Tentang Saya</h2>
+        <p class="mt-2">Saya adalah Mahasiswa Universitas Pamulang yang memiliki minat dalam bidang UI/UX dan pemrograman.</p>
+    </section>
+
+    <section class="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-6">
+        <h2 class="text-xl font-semibold">Proyek</h2>
+        <ul class="list-disc ml-6 mt-2">
+            <li><strong>Drone Multifungsi sektor Pertanian/Innteligen</strong> - Proyek akhir kuliah</li>
+            <li><strong>Website marketplace</strong> - Untuk situs penjualan online</li>
+        </ul>
+    </section>
+
+    <section class="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-6">
+        <h2 class="text-xl font-semibold">Keterampilan</h2>
+        <ul class="list-disc ml-6 mt-2">
+            <li>UI/UX Design</li>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Database dan SQL</li>
+        </ul>
+    </section>
+
+    <section class="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg mt-6">
+        <h2 class="text-xl font-semibold">Kontak</h2>
+        <p>Email: ridho@example.com</p>
+        <p>LinkedIn: linkedin.com/in/ridho</p>
+    </section>
+
+    <footer class="text-center p-4 mt-6 bg-blue-600 text-white">
+        &copy; 2025 Ridho. Semua Hak Dilindungi.
+    </footer>
+</body>
+</html>
